@@ -16,16 +16,24 @@ The sample result is as below:
 
 ## Global Feature Map
 
-<center class="half">
- <img src="https://github.com/sgzqc/surround_vision_perception/raw/main/ParkingSpaceDetection/0_pos.jpg" width="200"/><img src="https://github.com/sgzqc/surround_vision_perception/raw/main/ParkingSpaceDetection/0_oft.jpg" width="200"/><img src="https://github.com/sgzqc/surround_vision_perception/raw/main/ParkingSpaceDetection/0_type.jpg" width="200"/></center>
+ 
+ <p float="left">
+  <img src="0_pos.jpg" width="250" />
+  <img src="0_oft.jpg" width="250" /> 
+  <img src="0_type.jpg" width="250" />
+</p>
+
 
 
 
 
 ## Local  Feature Map
-
-<center class="half">
- <img src="https://github.com/sgzqc/surround_vision_perception/raw/main/ParkingSpaceDetection/1_junc.jpg" width="200"/><img src="https://github.com/sgzqc/surround_vision_perception/raw/main/ParkingSpaceDetection/1_location.jpg" width="200"/><img src="https://github.com/sgzqc/surround_vision_perception/blob/main/ParkingSpaceDetection/1_orient.jpg" width="200"/></center>
+ 
+ <p float="left">
+  <img src="1_junc.jpg" width="250" />
+  <img src="1_location.jpg" width="250" /> 
+  <img src="1_orient.jpg" width="250" />
+</p>
 
 ## Result
 
